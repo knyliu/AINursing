@@ -1,5 +1,10 @@
 # AI Nursing - Nursing Clinical Decision Education System
 
+## Demonstration
+A Quick Demo of AI Nursing - Clinical Decision-Making Education System: 2 Practical Cases
+
+https://youtu.be/xioUZLmTWoE
+
 ## Project Description
 
 This open-source software is designed to help healthcare institutions and related fields utilize their historical case reports by embedding the data into a vector database, enabling the system's functionality. The integration of AI capabilities makes the data more scalable and valuable, making it suitable for clinical decision education and training.
